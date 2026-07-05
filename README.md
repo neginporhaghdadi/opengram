@@ -3,6 +3,7 @@ OpenGram 📸
 A modern photo-sharing application built with React and Supabase. Users can upload images, preview them in a modal, and manage their gallery with real-time updates.
 
 ✨ Features
+
 📤 Upload images to Supabase Storage
 🗄️ Store image metadata in PostgreSQL
 ⚡ Real-time updates with Supabase Realtime
